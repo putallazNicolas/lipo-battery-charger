@@ -1,0 +1,269 @@
+Added Component: Designator=C1(Cap Ceramica)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap Ceramica)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=INTERRUPTOR(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=JACK(JACK 5MM)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EJ508A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EJ508A/MPD%20%28Memory%20Protection%20Devices%29/view-part/474399/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P1(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HEADER x2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RLED(RESISTOR 1/4W)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3KO"; VariantName = "[No Variations]"
+Added Component: Designator=SELECTOR(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 1(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 2(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 3(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 4(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 5(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 6(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 7(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=SLIDE SWITCH 8(Slide Switch)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=(TO220)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM7805CT/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7805CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LM7805CT/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7805CT/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP 1(TP 4056)
+Added Component: Designator=TP 2(TP 4056)
+Added Component: Designator=TP 3(TP 4056)
+Added Component: Designator=TP 4(TP 4056)
+Added Component: Designator=TP 5(TP 4056)
+Added Component: Designator=TP 6(TP 4056)
+Added Component: Designator=TP 7(TP 4056)
+Added Component: Designator=TP 8(TP 4056)
+Added Component: Designator=USB(SAMTEC_MUSB-05-X-B-SM-A-R-K-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MUSB-05-F-B-SM-A-R-K-TR/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MUSB-05-F-B-SM-A-R-K-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MUSB-05-F-B-SM-A-R-K-TR/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=JACK-2
+Added Pin To Net: NetName=GND Pin=JACK-3
+Added Pin To Net: NetName=NetP1_+ Pin=P1-+
+Added Pin To Net: NetName=NetP1_- Pin=P1--
+Added Pin To Net: NetName=NetP2_+ Pin=P2-+
+Added Pin To Net: NetName=NetP2_- Pin=P2--
+Added Pin To Net: NetName=NetP3_+ Pin=P3-+
+Added Pin To Net: NetName=NetP3_- Pin=P3--
+Added Pin To Net: NetName=NetP4_+ Pin=P4-+
+Added Pin To Net: NetName=NetP4_- Pin=P4--
+Added Pin To Net: NetName=NetP5_+ Pin=P5-+
+Added Pin To Net: NetName=NetP5_- Pin=P5--
+Added Pin To Net: NetName=NetP6_+ Pin=P6-+
+Added Pin To Net: NetName=NetP6_- Pin=P6--
+Added Pin To Net: NetName=NetP7_+ Pin=P7-+
+Added Pin To Net: NetName=NetP7_- Pin=P7--
+Added Pin To Net: NetName=NetP8_+ Pin=P8-+
+Added Pin To Net: NetName=NetP8_- Pin=P8--
+Added Pin To Net: NetName=GND Pin=RLED-1
+Added Pin To Net: NetName=GND Pin=SLIDE SWITCH 1-1
+Added Pin To Net: NetName=V1 Pin=SLIDE SWITCH 1-2
+Added Pin To Net: NetName=V2 Pin=SLIDE SWITCH 2-2
+Added Pin To Net: NetName=GND Pin=SLIDE SWITCH 3-1
+Added Pin To Net: NetName=V3 Pin=SLIDE SWITCH 3-2
+Added Pin To Net: NetName=V4 Pin=SLIDE SWITCH 4-2
+Added Pin To Net: NetName=GND Pin=SLIDE SWITCH 5-1
+Added Pin To Net: NetName=V5 Pin=SLIDE SWITCH 5-2
+Added Pin To Net: NetName=GND Pin=SLIDE SWITCH 6-1
+Added Pin To Net: NetName=V6 Pin=SLIDE SWITCH 6-2
+Added Pin To Net: NetName=GND Pin=SLIDE SWITCH 7-1
+Added Pin To Net: NetName=V7 Pin=SLIDE SWITCH 7-2
+Added Pin To Net: NetName=GND Pin=SLIDE SWITCH 8-1
+Added Pin To Net: NetName=V8 Pin=SLIDE SWITCH 8-2
+Added Pin To Net: NetName=V1 Pin=TP 1-0
+Added Pin To Net: NetName=GND Pin=TP 1-1
+Added Pin To Net: NetName=NetP1_+ Pin=TP 1-2
+Added Pin To Net: NetName=NetP1_- Pin=TP 1-3
+Added Pin To Net: NetName=V2 Pin=TP 2-0
+Added Pin To Net: NetName=GND Pin=TP 2-1
+Added Pin To Net: NetName=NetP2_+ Pin=TP 2-2
+Added Pin To Net: NetName=NetP2_- Pin=TP 2-3
+Added Pin To Net: NetName=V3 Pin=TP 3-0
+Added Pin To Net: NetName=GND Pin=TP 3-1
+Added Pin To Net: NetName=NetP3_+ Pin=TP 3-2
+Added Pin To Net: NetName=NetP3_- Pin=TP 3-3
+Added Pin To Net: NetName=V4 Pin=TP 4-0
+Added Pin To Net: NetName=GND Pin=TP 4-1
+Added Pin To Net: NetName=NetP4_+ Pin=TP 4-2
+Added Pin To Net: NetName=NetP4_- Pin=TP 4-3
+Added Pin To Net: NetName=V5 Pin=TP 5-0
+Added Pin To Net: NetName=GND Pin=TP 5-1
+Added Pin To Net: NetName=NetP5_+ Pin=TP 5-2
+Added Pin To Net: NetName=NetP5_- Pin=TP 5-3
+Added Pin To Net: NetName=V6 Pin=TP 6-0
+Added Pin To Net: NetName=GND Pin=TP 6-1
+Added Pin To Net: NetName=NetP6_+ Pin=TP 6-2
+Added Pin To Net: NetName=NetP6_- Pin=TP 6-3
+Added Pin To Net: NetName=V7 Pin=TP 7-0
+Added Pin To Net: NetName=GND Pin=TP 7-1
+Added Pin To Net: NetName=NetP7_+ Pin=TP 7-2
+Added Pin To Net: NetName=NetP7_- Pin=TP 7-3
+Added Pin To Net: NetName=V8 Pin=TP 8-0
+Added Pin To Net: NetName=GND Pin=TP 8-1
+Added Pin To Net: NetName=NetP8_+ Pin=TP 8-2
+Added Pin To Net: NetName=NetP8_- Pin=TP 8-3
+Added Pin To Net: NetName=GND Pin=USB-5
+Added Pin To Net: NetName=GND Pin=USB-SH1
+Added Pin To Net: NetName=GND Pin=USB-SH2
+Added Pin To Net: NetName=GND Pin=USB-SH3
+Added Pin To Net: NetName=GND Pin=USB-SH4
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=C1-2
+Added Pin To Net: NetName=Net_1 Pin=INTERRUPTOR-2
+Added Net: Name=Net_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=RLED-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetINTERRUPTOR_1 Pin=INTERRUPTOR-1
+Added Pin To Net: NetName=NetINTERRUPTOR_1 Pin=SELECTOR-2
+Added Net: Name=NetINTERRUPTOR_1
+Added Pin To Net: NetName=VCC Pin=-3
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=D1-0
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 1-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 2-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 3-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 4-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 5-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 6-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 7-3
+Added Pin To Net: NetName=VCC Pin=SLIDE SWITCH 8-3
+Added Net: Name=VCC
+Added Pin To Net: NetName=VJACK Pin=JACK-1
+Added Pin To Net: NetName=VJACK Pin=SELECTOR-1
+Added Net: Name=VJACK
+Added Pin To Net: NetName=VUSB Pin=SELECTOR-3
+Added Pin To Net: NetName=VUSB Pin=USB-1
+Added Net: Name=VUSB
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component C1 Cap
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component C2 Cap
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component D1 LED
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component INTERRUPTOR SLIDE SWITCH
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component JACK JACK 5MM
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P1
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P2
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P3
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P4
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P5
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P6
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P7
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component P8
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component RLED Res1
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SELECTOR
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 1
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 2
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 3
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 4
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 5
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 6
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 7
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component SLIDE SWITCH 8
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component  LM7805
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 1 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 2 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 3 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 4 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 5 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 6 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 7 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 8 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component USB Mini USB

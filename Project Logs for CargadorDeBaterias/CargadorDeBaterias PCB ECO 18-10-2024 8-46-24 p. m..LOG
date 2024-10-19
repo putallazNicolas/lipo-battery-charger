@@ -1,0 +1,48 @@
+Added Component: Designator=TP 1(TP 4056)
+Added Component: Designator=TP 2(TP 4056)
+Added Component: Designator=TP 3(TP 4056)
+Added Component: Designator=TP 4(TP 4056)
+Added Component: Designator=TP 5(TP 4056)
+Added Component: Designator=TP 6(TP 4056)
+Added Component: Designator=TP 7(TP 4056)
+Added Component: Designator=TP 8(TP 4056)
+Added Pin To Net: NetName=V1 Pin=TP 1-0
+Added Pin To Net: NetName=GND Pin=TP 1-1
+Added Pin To Net: NetName=NetP1_+ Pin=TP 1-2
+Added Pin To Net: NetName=NetP1_- Pin=TP 1-3
+Added Pin To Net: NetName=V2 Pin=TP 2-0
+Added Pin To Net: NetName=GND Pin=TP 2-1
+Added Pin To Net: NetName=NetP2_+ Pin=TP 2-2
+Added Pin To Net: NetName=NetP2_- Pin=TP 2-3
+Added Pin To Net: NetName=V3 Pin=TP 3-0
+Added Pin To Net: NetName=GND Pin=TP 3-1
+Added Pin To Net: NetName=NetP3_+ Pin=TP 3-2
+Added Pin To Net: NetName=NetP3_- Pin=TP 3-3
+Added Pin To Net: NetName=V4 Pin=TP 4-0
+Added Pin To Net: NetName=GND Pin=TP 4-1
+Added Pin To Net: NetName=NetP4_+ Pin=TP 4-2
+Added Pin To Net: NetName=NetP4_- Pin=TP 4-3
+Added Pin To Net: NetName=V5 Pin=TP 5-0
+Added Pin To Net: NetName=GND Pin=TP 5-1
+Added Pin To Net: NetName=NetP5_+ Pin=TP 5-2
+Added Pin To Net: NetName=NetP5_- Pin=TP 5-3
+Added Pin To Net: NetName=V6 Pin=TP 6-0
+Added Pin To Net: NetName=GND Pin=TP 6-1
+Added Pin To Net: NetName=NetP6_+ Pin=TP 6-2
+Added Pin To Net: NetName=NetP6_- Pin=TP 6-3
+Added Pin To Net: NetName=V7 Pin=TP 7-0
+Added Pin To Net: NetName=GND Pin=TP 7-1
+Added Pin To Net: NetName=NetP7_+ Pin=TP 7-2
+Added Pin To Net: NetName=NetP7_- Pin=TP 7-3
+Added Pin To Net: NetName=V8 Pin=TP 8-0
+Added Pin To Net: NetName=GND Pin=TP 8-1
+Added Pin To Net: NetName=NetP8_+ Pin=TP 8-2
+Added Pin To Net: NetName=NetP8_- Pin=TP 8-3
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 1 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 2 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 3 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 4 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 5 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 6 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 7 TP 4056
+Added Member To Class: ClassName=CargadorDeBaterias Member=Component TP 8 TP 4056
