@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [CargadorDeBaterias.PcbDoc]
+   Generated File[CargadorDeBaterias_Legend_Top.gbr]
+   Generated File[CargadorDeBaterias_Paste_Top.gbr]
+   Generated File[CargadorDeBaterias_Soldermask_Top.gbr]
+   Generated File[CargadorDeBaterias_Copper_Signal_Top.gbr]
+   Generated File[CargadorDeBaterias_Copper_Signal_Bot.gbr]
+   Generated File[CargadorDeBaterias_Soldermask_Bot.gbr]
+   Generated File[CargadorDeBaterias_Paste_Bot.gbr]
+   Generated File[CargadorDeBaterias_Mechanical_1.gbr]
+   Generated File[CargadorDeBaterias_Mechanical_13.gbr]
+   Generated File[CargadorDeBaterias_Mechanical_15.gbr]
+   Generated File[CargadorDeBaterias_Pads_Top.gbr]
+   Generated File[CargadorDeBaterias_Pads_Bot.gbr]
+   Generated File[CargadorDeBaterias_Drawing_1.gbr]
+   Generated File[CargadorDeBaterias_Drillmap_1.gbr]
+   Generated File[CargadorDeBaterias_Profile.gbr]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 19:30:20 On 18/11/2024
