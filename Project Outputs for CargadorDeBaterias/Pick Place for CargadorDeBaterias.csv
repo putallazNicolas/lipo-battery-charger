@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\nicol\OneDrive\Escritorio\Proyectos\Mark\lipo-battery-charger\Project Outputs for CargadorDeBaterias\Pick Place for CargadorDeBaterias.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       18/11/24
+Time:       20:23
+Revision:   fa892f79e87159b32977eaacb59ac496c8613d80
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"USB","USB-C","TopLayer","USB-C","154.938","3362.205","270","Type C, 3 A, Right Angle, Surface Mount (SMT), Power-Only USB Receptacle"
+"RUSB2","5,1Kohm 0805 resistor","TopLayer","RES_0805","358.268","3287.402","270",""
+"RUSB1","5,1Kohm 0805 resistor","TopLayer","RES_0805","358.268","3437.008","90",""
+"JACK","JACK 5MM","TopLayer","JACK_5MM","994.291","3571.750","180",""
+"SW4","","TopLayer","SWITCH_PALANCA","1500.000","428.395","90",""
+"SW3","","TopLayer","SWITCH_PALANCA","1500.000","943.513","90",""
+"SW2","","TopLayer","SWITCH_PALANCA","1500.000","1458.631","90",""
+"SW1","","TopLayer","SWITCH_PALANCA","1500.000","1973.749","90",""
+"SW0","SLIDE SWITCH","TopLayer","SWITCH_PALANCA","1275.592","2635.433","270",""
+"SEL2","","TopLayer","SWITCH_PALANCA","1543.309","2635.433","270",""
+"SEL1","","TopLayer","SWITCH_PALANCA","1811.025","2635.433","270",""
+"EIN+","IN +","TopLayer","HEADER_x2","380.880","3811.024","180",""
+"EIN-","IN -","TopLayer","HEADER_x2","682.284","3811.024","180",""
+"EOUT-","OUT -","TopLayer","HEADER_x2","682.284","137.794","0",""
+"EOUT+","OUT +","TopLayer","HEADER_x2","380.880","137.794","0",""
+"RLED","220ohm 0805 resistor","TopLayer","RES_0805","925.196","3177.166","0",""
+"C2","0805 100nF Capacitor","TopLayer","CAP_0805","1519.684","3842.520","270","Capacitor"
+"C1","0805 100nF Capacitor","TopLayer","CAP_0805","1720.473","3842.520","270","Capacitor"
+"TP4","TP 4056","TopLayer","TP_4056","470.473","634.415","0",""
+"TP3","TP 4056","TopLayer","TP_4056","470.473","1342.235","0",""
+"TP2","TP 4056","TopLayer","TP_4056","470.473","2050.054","0",""
+"TP1","TP 4056","TopLayer","TP_4056","470.473","2757.872","0",""
+"U1","LM7805","TopLayer","TO220","1620.471","3677.166","180",""
+"P4","","TopLayer","HEADER_x2","1816.930","430.629","270",""
+"P3","","TopLayer","HEADER_x2","1816.930","945.747","270",""
+"P2","","TopLayer","HEADER_x2","1816.930","1460.865","270",""
+"P1","","TopLayer","HEADER_x2","1816.930","1975.983","270",""
+"D1","LED","TopLayer","LED","1137.796","3177.166","180",""

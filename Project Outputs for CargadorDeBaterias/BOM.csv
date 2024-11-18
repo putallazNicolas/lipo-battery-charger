@@ -1,0 +1,17 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"0805 100nF Capacitor","Capacitor","C1, C2","CAP 0805","Cap","2"
+"LED","","D1","LED","LED","1"
+"IN -","","EIN-","HEADER x2","HEADER X2","1"
+"IN +","","EIN+","HEADER x2","HEADER X2","1"
+"OUT -","","EOUT-","HEADER x2","HEADER X2","1"
+"OUT +","","EOUT+","HEADER x2","HEADER X2","1"
+"JACK 5MM","","JACK","JACK 5MM","JACK 5MM","1"
+"","","P1, P2, P3, P4","HEADER x2","HEADER X2","4"
+"220ohm 0805 resistor","","RLED","RES 0805","RESISTOR 1/4W","1"
+"5,1Kohm 0805 resistor","","RUSB1, RUSB2","RES 0805","RESISTOR 1/4W","2"
+"","","SEL1, SEL2, SW1, SW2, SW3, SW4","SWITCH PALANCA","Header 3","6"
+"SLIDE SWITCH","","SW0","SWITCH PALANCA","SLIDE SWITCH","1"
+"TP 4056","","TP1, TP2, TP3, TP4","TP 4056","TP 4056","4"
+"LM7805","","U1","TO220","LM7805","1"
+"USB-C","Type C, 3 A, Right Angle, Surface Mount (SMT), Power-Only USB Receptacle","USB","USB-C","USB-C","1"
