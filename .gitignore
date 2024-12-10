@@ -1,0 +1,18 @@
+# Ignorar la carpeta History (historial de Altium)
+History/
+
+# Ignorar archivos secundarios generados por Altium Designer
+*.PrjPCBStructure
+*.VersionControl
+*.OutJob
+*.log
+*.Generated
+
+# Ignorar archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignorar carpetas específicas de control de versiones
+.idea/
+.vscode/
