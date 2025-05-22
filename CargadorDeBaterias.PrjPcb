@@ -23,27 +23,15 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
-AutoCrossReferences=0
-NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=1
-ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -173,190 +161,94 @@ DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias-RoundHole
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for CargadorDeBaterias\NC Drill\CargadorDeBaterias-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CargadorDeBaterias-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for CargadorDeBaterias\NC Drill\CargadorDeBaterias-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CargadorDeBaterias-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for CargadorDeBaterias\NC Drill\CargadorDeBaterias.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CargadorDeBaterias.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for CargadorDeBaterias\NC Drill\CargadorDeBaterias.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\NC Drill\CargadorDeBaterias.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Mechanical_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Mechanical_13.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Mechanical_15.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument39]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument41]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument45]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for CargadorDeBaterias\CargadorDeBaterias_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Free Documents\Gerber\CargadorDeBaterias_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument47]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for CargadorDeBaterias\Design Rule Check - CargadorDeBaterias.html
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for CargadorDeBaterias\Pick Place for CargadorDeBaterias.csv
 DItemRevisionGUID=
 
@@ -475,22 +367,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -551,48 +433,24 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Harness Layout Drawing Print
-OutputName9=Harness Layout Drawing Prints
+OutputType9=PCBDrawing
+OutputName9=Draftsman
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Harness Wiring Diagram Print
-OutputName10=Harness Wiring Diagram Prints
+OutputType10=PDF3D
+OutputName10=PDF3D
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PCBDrawing
-OutputName11=Draftsman
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
 OutputDocumentPath11=
-OutputVariantName11=[No Variations]
+OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=PCBDrawing
-OutputName12=Draftsman
-OutputDocumentPath12=
-OutputVariantName12=[No Variations]
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=PCBDrawing
-OutputName13=Draftsman
-OutputDocumentPath13=
-OutputVariantName13=[No Variations]
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=PDF3D
-OutputName14=PDF3D
-OutputDocumentPath14=
-OutputVariantName14=[No Variations]
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=PDF3D MBA
-OutputName15=PDF3D MBA
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -748,24 +606,6 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=BOM_ReportCompare
-OutputName7=BOM Compare
-OutputDocumentPath7=
-OutputVariantName7=[No Variations]
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=Export Comments
-OutputName8=Export Comments
-OutputDocumentPath8=
-OutputVariantName8=[No Variations]
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Project History
-OutputName9=Project History
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -979,11 +819,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Web ReviewOutputName
-OutputName12=Web Review Data
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1116,25 +951,6 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
-Type120=1
-Type121=1
-Type122=1
-Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=1
-Type129=1
-Type130=1
-Type131=1
-Type132=1
-Type133=1
-Type134=1
-Type135=1
-Type136=1
-Type137=1
-Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1205,12 +1021,6 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
-Type69=1
-Type70=1
-Type71=1
-Type72=1
-Type73=1
-Type74=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1336,36 +1146,6 @@ MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
-Type124=1
-Type125=1
-Type126=1
-Type127=1
-Type128=2
-Type129=2
-Type130=2
-Type131=2
-Type132=2
-Type133=2
-Type134=2
-Type135=2
-Type136=2
-Type137=2
-Type138=1
-Type139=1
-Type140=1
-Type141=1
-Type142=1
-Type143=1
-Type144=1
-Type145=1
-Type146=1
-Type147=2
-Type148=2
-Type149=2
-Type150=2
-Type151=2
-Type152=1
-Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1433,12 +1213,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
